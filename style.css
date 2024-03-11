@@ -1,0 +1,38 @@
+html{
+    font-size: 25px;
+}
+head{
+    margin: 0px;
+}
+h1{
+    font-size: 70px;
+}
+div{
+    background-color: blue;
+    text-align: center;
+    color: aliceblue;
+}
+.navbar ol{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    text-align: center;
+    background-color: black;
+}
+.navbar a{
+color: bisque;
+display: block;
+padding: 15px;
+text-align: center;
+font-weight: bold;
+width: 100px;
+font-size: 15px;
+
+}
+.navbar li{
+    display: inline;
+}
+.navbar a:hover{
+    background-color: green;
+}
